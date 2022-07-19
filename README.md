@@ -1,4 +1,4 @@
-# FaceB in React!
+# FaceBook in React!
 
 [![Follow me](https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social)](https://github.com/nabeelshar)
 [![Follow Twitter](https://img.shields.io/twitter/follow/blueedgetechno?label=Follow%20me&style=social)](https://twitter.com/sharnabeel)
