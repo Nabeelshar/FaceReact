@@ -11,7 +11,7 @@ This open source project is made in the hope to replicate the Facebook desktop e
 
 ## Notice
 >#### This project is **not in anyway affiliated with Facebook** and **should not be confused with Facebook App** or Products.
->#### This is also not Windows 365 cloud PC.
+
 
 
 
@@ -22,7 +22,7 @@ work in progress
 ------------
  #### Live Experience🌈: [coming soon]()
 
-![home](./public/img/home.jpg)
+
 
 # Gallery
 Coming soon
