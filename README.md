@@ -34,7 +34,7 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 # Features
 Coming soon
 
-📑 [suggest more](https://github.com/blueedgetechno/win11React/issues/new/choose)
+📑 [suggest more](https://github.com/Nabeelshar/FaceReact/issues/new/)
 
 # Stack
 
